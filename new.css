@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#own{
+    color: red;
+}
+#solar{
+    color: black;
+}
+
+#big{
+    color: blue;
+}
+
+#nasa{
+    margin-bottom: 40px;
+}
+
+.planets {
+    color: rgb(26, 95, 17);
+    font-weight: 900;
+}
+#planets{
+    color: blue;
+    font-weight: bold;
+}
+#sample{
+    color: red;
+    font-weight: 600;
+}
+option{
+    color: red;
+    font-weight: 1000;
+}
+
+#butn{
+    color: green;
+    font-weight: 1000;
+    background-color:black;
+}
+
+#btn{
+   background-color: blueviolet;
+   color: yellow;
+   font-weight: 1000;
+}
+
+#sun{
+    color: yellow;
+}
+#gala{
+    color: red;
+}
+#galas{
+    color: rgb(145, 45, 145);
+    font-weight: 600; 
+}
+
+ul li a {
+   text-decoration: none;
+   font-family: arial;
+   padding: 5px;
+   display: block;
+
+}
+ul li a:hover{
+    background-color: green;
+}
+ul li {
+    display: inline-block;
+    list-style: none;
+    
+}
+
+.wrapper{
+    margin: 0 auto;
+}
+#home-page{
+    font-weight: 700;
+    color: rgb(27, 128, 27);
+    padding: 10px;
+}
+#home-page:hover{background-color: red;} 
+
+#para{
+    width: 50%;
+    text-align: center;
+    font-weight: 600;
+    font-style:unset;
+    color: rgb(69, 51, 236);
+}
+#sun1{
+    border-radius: 100%;
+    border: solid yellow 5px;
+}
+#sun2{
+    width: 600px;
+    height: 500px;
+    border: solid blue 5px;
+}
+#moon{
+    position:absolute; left: 94.48%; top: 25px;
+}
+#moon:hover{transform: scale(2);}
+
+.galaxy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.three{
+    text-transform: uppercase;
+    color: red;
+}
+.firstP{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   font-weight: 600;
+   font-size: large;
+   font-family: arial;
+   border: solid blue 2px;
+   border-style: dashed;
+}
+.secondP{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: arial;
+    font-weight: 600;
+    border: solid red 3px;
+    border-style:dotted;
+}
+.left-side{
+    position: absolute;top: 250px;left: 25px;
+    
+}
